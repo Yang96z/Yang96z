@@ -18,9 +18,9 @@
   
   <p>Feel free to explore my projects or connect with me!</p>
   
-  <div align="center" style="margin-top: 10px;">
-    <img src=https://media.giphy.com/media/j3OL6mSc2FeV0UHMDg/giphy.gif?cid=ecf05e47j3f9jeqwvqmbqsm9hebsk9tgmzhkoyid7tks2ed2&ep=v1_gifs_search&rid=giphy.gif&ct=g>
-  </div>
+ <div align="center" style="margin-top: 10px;">
+  <img src="https://media.giphy.com/media/j3OL6mSc2FeV0UHMDg/giphy.gif?cid=ecf05e47j3f9jeqwvqmbqsm9hebsk9tgmzhkoyid7tks2ed2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF">
+</div>
 
   <hr>
 
