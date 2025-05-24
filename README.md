@@ -10,7 +10,7 @@
 
   <h1>👨‍💻 About Me:</h1>
 
-  <p>👋 Hi there! I'm currently undertaking a Full Stack Developer Bootcamp, building on my background in Telematics (Computer Engineering) and prior experience as a Quality Assurance Engineer during my internship at NEC Singapore Laboratories.</p>
+  <p>👋 Hi there! I'm currently undertaking a Full Stack Developer Bootcamp, building on my background with a degree in Telematics also known as Computer Engineering and prior experience as a Quality Assurance Engineer during my internship at NEC Singapore Laboratories.</p>
   
   <p>Through the bootcamp, I've gained hands-on experience in front-end and back-end development, as well as working with databases. I enjoy creating clean, responsive user interfaces and writing efficient, maintainable code. My foundation in testing and debugging from my QA background continues to shape my approach to building robust applications.</p>
   
