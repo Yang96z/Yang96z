@@ -1,3 +1,6 @@
+ <div align="center" style="margin-top: 20px;">
+    <img src=https://media.giphy.com/media/lP8ezu4iNVmZYOZn3j/giphy.gif?cid=ecf05e47hprcqz62o16kquca7ldjsu7f69ufbfm91k6yvd1e&ep=v1_gifs_search&rid=giphy.gif&ct=g>
+  </div>
 
 
   <h1>👨‍💻 About Me:</h1>
@@ -9,7 +12,6 @@
   
   <p>Feel free to explore my projects or connect with me!</p>
   
-  <!-- Funny coder GIF -->
   <div align="center" style="margin-top: 20px;">
     <img src=https://media.giphy.com/media/lP8ezu4iNVmZYOZn3j/giphy.gif?cid=ecf05e47hprcqz62o16kquca7ldjsu7f69ufbfm91k6yvd1e&ep=v1_gifs_search&rid=giphy.gif&ct=g>
   </div>
