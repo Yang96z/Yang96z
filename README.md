@@ -1,4 +1,4 @@
-<img src="https://your-dark-banner-url" alt="Dark Banner" width="100%">
+
 
   <h1>💫 About Me:</h1>
   <p>👋 Hi there! I'm currently undertaking a Full Stack Developer Bootcamp, building on my background in Telematics (Computer Engineering) and prior experience as a Quality Assurance Engineer during my internship at NEC Singapore Laboratories.</p>
