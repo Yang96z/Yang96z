@@ -1,10 +1,13 @@
-
-
+<h1 style="margin: 0; line-height: 1;">
+  <img
+    src="https://raw.githubusercontent.com/Yang96z/Yang96z/f63602ecf2d387d1aedd94bdf3adc5d8ab2dad20/banner_github.png"
+    style="height: 100px; width: auto; display: block; margin: 0 auto;"
+    alt="Banner"
+  >
+</h1>
 
   <h1>👨‍💻 About Me:</h1>
-  <h1>
-  <img src="https://raw.githubusercontent.com/Yang96z/Yang96z/f63602ecf2d387d1aedd94bdf3adc5d8ab2dad20/banner_github.png" style="width: 100%; max-height: 100px;" >
-</h1>
+
   <p>👋 Hi there! I'm currently undertaking a Full Stack Developer Bootcamp, building on my background in Telematics (Computer Engineering) and prior experience as a Quality Assurance Engineer during my internship at NEC Singapore Laboratories.</p>
   
   <p>Through the bootcamp, I've gained hands-on experience in front-end and back-end development, as well as working with databases. I enjoy creating clean, responsive user interfaces and writing efficient, maintainable code. My foundation in testing and debugging from my QA background continues to shape my approach to building robust applications.</p>
