@@ -1,7 +1,7 @@
 <h1 style="margin: 0; line-height: 1;">
   <img
     src="https://raw.githubusercontent.com/Yang96z/Yang96z/f63602ecf2d387d1aedd94bdf3adc5d8ab2dad20/banner_github.png"
-    style="height: 100px; width: auto; display: block; margin: 0 auto;"
+    style="height: 100px; width: 100%; display: block; margin: 0 auto;"
     alt="Banner"
   >
 </h1>
