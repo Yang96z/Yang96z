@@ -1,4 +1,4 @@
-<div style="background-color: #1e1e1e; color: #f0f0f0; padding: 20px; border-radius: 10px;">
+<div style="background-color: #black; color: #f0f0f0; padding: 20px; border-radius: 10px;">
   
   <h1>💫 About Me:</h1>
   <p>👋 Hi there! I'm currently undertaking a Full Stack Developer Bootcamp, building on my background in Telematics (Computer Engineering) and prior experience as a Quality Assurance Engineer during my internship at NEC Singapore Laboratories.</p>
@@ -11,7 +11,7 @@
   
   <!-- Funny coder GIF -->
   <div align="center" style="margin-top: 20px;">
-    <img src="https://media.giphy.com/media/f0vP4vTGI3XkE/giphy.gif" alt="funny coder gif" width="400" style="border-radius: 10px;">
+    <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlwdzU1cmFrczNzaWhoMHV6amM4ZjV0ZDVwMnNuOWhiMnFoZjlxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/unQ3IJU2RG7DO/giphy.gif>
     <p><i>Me debugging at 3am 😅</i></p>
   </div>
 
@@ -43,13 +43,8 @@
   <h3>✍️ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
 
-  <hr>
 
-  <p>
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=Yang96z&icon=0&color=0" alt="Visitor count">
-    </a>
-  </p>
+
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
