@@ -1,4 +1,4 @@
-<div style="max-width: 600px; margin: 0 auto;">
+<div align= "center" style="max-width: 600px; margin: 0 auto;">
   <img
     src="https://raw.githubusercontent.com/Yang96z/Yang96z/f63602ecf2d387d1aedd94bdf3adc5d8ab2dad20/banner_github.png"
     style="width: 80%; height: auto; display: block; margin: 0 auto;"
