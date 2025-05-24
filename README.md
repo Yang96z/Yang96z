@@ -1,5 +1,5 @@
  <div align="center" style="margin-top: 20px;">
-    <img src=https://github.com/Yang96z/Yang96z/blob/f63602ecf2d387d1aedd94bdf3adc5d8ab2dad20/banner_github.png style="height:200px;">
+    <img src=https://github.com/Yang96z/Yang96z/blob/f63602ecf2d387d1aedd94bdf3adc5d8ab2dad20/banner_github.png style="height:200px; width:auto;">
   </div>
 
 
