@@ -1,7 +1,6 @@
- <div align="center" style="margin-top: 20px;">
-    <img src=https://github.com/Yang96z/Yang96z/blob/f63602ecf2d387d1aedd94bdf3adc5d8ab2dad20/banner_github.png style=style="width: 100%; max-height: 50px; >
-  </div>
-
+<div align="center" style="margin-top: 20px;">
+  <img src="https://raw.githubusercontent.com/Yang96z/Yang96z/f63602ecf2d387d1aedd94bdf3adc5d8ab2dad20/banner_github.png" style="width: 100%; max-height: 50px;" alt="Banner Image">
+</div>
 
   <h1>👨‍💻 About Me:</h1>
   <p>👋 Hi there! I'm currently undertaking a Full Stack Developer Bootcamp, building on my background in Telematics (Computer Engineering) and prior experience as a Quality Assurance Engineer during my internship at NEC Singapore Laboratories.</p>
