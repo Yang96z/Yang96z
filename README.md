@@ -1,5 +1,5 @@
-<div style="background-color: #black; color: #f0f0f0; padding: 20px; border-radius: 10px;">
-  
+<img src="https://your-dark-banner-url" alt="Dark Banner" width="100%">
+
   <h1>💫 About Me:</h1>
   <p>👋 Hi there! I'm currently undertaking a Full Stack Developer Bootcamp, building on my background in Telematics (Computer Engineering) and prior experience as a Quality Assurance Engineer during my internship at NEC Singapore Laboratories.</p>
   
@@ -11,8 +11,7 @@
   
   <!-- Funny coder GIF -->
   <div align="center" style="margin-top: 20px;">
-    <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlwdzU1cmFrczNzaWhoMHV6amM4ZjV0ZDVwMnNuOWhiMnFoZjlxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/unQ3IJU2RG7DO/giphy.gif>
-    <p><i>Me debugging at 3am 😅</i></p>
+    <img src=https://media.giphy.com/media/lP8ezu4iNVmZYOZn3j/giphy.gif?cid=ecf05e47hprcqz62o16kquca7ldjsu7f69ufbfm91k6yvd1e&ep=v1_gifs_search&rid=giphy.gif&ct=g>
   </div>
 
   <hr>
