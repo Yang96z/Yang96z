@@ -1,5 +1,5 @@
 <div align="center" style="margin-top: 20px;">
-  <img src="https://raw.githubusercontent.com/Yang96z/Yang96z/f63602ecf2d387d1aedd94bdf3adc5d8ab2dad20/banner_github.png" style="width: 100%; max-height: 1px;" alt="Banner Image">
+  <img src="https://raw.githubusercontent.com/Yang96z/Yang96z/f63602ecf2d387d1aedd94bdf3adc5d8ab2dad20/banner_github.png" style="width: 100%; max-height: 1px;" >
 </div>
 
   <h1>👨‍💻 About Me:</h1>
