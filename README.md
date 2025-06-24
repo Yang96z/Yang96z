@@ -49,20 +49,21 @@
 
   <h2>🚀 Project Showcases:</h2>
 
- <!-- E-commerce Coffee Shop -->
+<!-- E-commerce Coffee Shop -->
 <div align="center" style="margin-bottom: 30px;">
   <h3>☕ E-Commerce Coffee Shop</h3>
   <a href="https://drive.google.com/file/d/1Ib04rNWynljCZxR4SbzCkVWM5_XVUYdg/view?usp=drive_link" target="_blank">
     <img 
-      src="https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+      src="https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" 
       alt="Coffee Shop Demo" 
-      style="width: 80%; max-width: 600px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;"
-      onmouseover="this.style.transform='scale(1.03)'" 
+      style="width: 300px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.05)'" 
       onmouseout="this.style.transform='scale(1)'"
     >
     <p style="margin-top: 8px;">🔗 Click to view demo</p>
   </a>
 </div>
+
 
   
   <!-- Automated Plant Watering System -->
