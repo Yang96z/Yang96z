@@ -47,6 +47,27 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   </p>
 
+  <h2>🚀 Project Showcases:</h2>
+
+  <!-- E-commerce Coffee Shop -->
+  <div align="center" style="margin-bottom: 20px;">
+    <h3>☕ E-Commerce Coffee Shop</h3>
+    <a href="https://drive.google.com/file/d/1Ib04rNWynljCZxR4SbzCkVWM5_XVUYdg/view?usp=drive_link" target="_blank">
+      <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Coffee Shop Demo" style="width: 80%; max-width: 600px; border: 1px solid #ccc; border-radius: 10px;">
+      <p>🔗 Click to view demo</p>
+    </a>
+  </div>
+  
+  <!-- Automated Plant Watering System -->
+  <div align="center">
+    <h3>🌿 Automated Plant Watering System</h3>
+    <a href="https://drive.google.com/file/d/1Ib04rNWynljCZxR4SbzCkVWM5_XVUYdg/view?usp=drive_link" target="_blank">
+      <img src="https://img.icons8.com/fluency/480/plant-under-sun.png" alt="Plant Watering Demo" style="width: 40%; max-width: 300px; border: 1px solid #ccc; border-radius: 10px;">
+      <p>🔗 Click to view demo</p>
+    </a>
+  </div>
+
+
   <h3>✍️ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
 
