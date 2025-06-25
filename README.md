@@ -52,7 +52,7 @@
 <!-- E-commerce Coffee Shop -->
 <div align="center" style="margin-bottom: 30px;">
   <h3>☕ E-Commerce Coffee Shop</h3>
-  <a href="https://drive.google.com/file/d/1Ib04rNWynljCZxR4SbzCkVWM5_XVUYdg/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/uc?export=preview&id=1Ib04rNWynljCZxR4SbzCkVWM5_XVUYdg" target="_blank">
     <img 
       src="https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" 
       alt="Coffee Shop Demo" 
