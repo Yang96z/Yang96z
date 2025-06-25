@@ -66,20 +66,20 @@
 
 
   
-  <!-- Automated Plant Watering System -->
-  <div align="center">
-    <h3>🌿 Automated Plant Watering System</h3>
-    <a href="https://drive.google.com/file/d/1U6Wllu9nughzOYBr6DYe4eFHvy_4cnkB/view?usp=sharing" target="_blank">
-      <img 
-        src="https://img.icons8.com/fluency/480/plant-under-sun.png" 
-        alt="Plant Watering Demo" 
-        style="width: 40%; max-width: 300px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;"
-        onmouseover="this.style.transform='scale(1.05)'" 
-        onmouseout="this.style.transform='scale(1)'"
-      >
-      <p style="margin-top: 8px;">🔗 Click to view demo</p>
-    </a>
-  </div>
+<!-- Automated Plant Watering System -->
+<div align="center">
+  <h3>🌿 Automated Plant Watering System</h3>
+  <a href="https://drive.google.com/file/d/1U6Wllu9nughzOYBr6DYe4eFHvy_4cnkB/preview" target="_blank">
+    <img 
+      src="https://img.icons8.com/fluency/480/plant-under-sun.png" 
+      alt="Plant Watering Demo" 
+      style="width: 40%; max-width: 300px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.05)'" 
+      onmouseout="this.style.transform='scale(1)'"
+    >
+    <p style="margin-top: 8px;">🔗 Click to view demo</p>
+  </a>
+</div>
 
 
 
